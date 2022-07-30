@@ -3,7 +3,7 @@
 # -*- coding: utf-8 -*-
 
 # python 3.3.2+ Hammer Dos Script v.1
-# Modified by D4RK TSN
+# modified by D4RK TSN
 # only for legal purpose
 
 
