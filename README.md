@@ -22,6 +22,6 @@ $ input target ip address port
 
 
 
-#Note:
+# Note:
 
 Don't use for revenge! Make sure your anonymity! It's made for just educational purpose. We are not responsible for any abuse or damage caused by this program. Thanks.
