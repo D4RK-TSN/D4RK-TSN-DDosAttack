@@ -10,7 +10,7 @@ $ pkg install python2
 
 $ pkg install git
 
-$ git clone https://github.com/TSNVau123/D4RK-TSN-DDosAttack
+$ git clone https://github.com/D4RK-TSN/D4RK-TSN-DDosAttack
 
 $ cd D4RK-TSN-DDosAttack
 
