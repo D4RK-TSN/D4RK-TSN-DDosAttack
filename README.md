@@ -1,4 +1,4 @@
-# D4RK-TSN-Ddos
+# D4RK-TSN-Ddos commands:
 
 $ pkg update
 
@@ -20,3 +20,8 @@ $ input your targeted ip address
 
 $ input target ip address port
 
+
+
+#Note:
+
+Don't use for revenge! Make sure your anonymity! It's made for just educational purpose. We are not responsible for any abuse or damage caused by this program. Thanks.
